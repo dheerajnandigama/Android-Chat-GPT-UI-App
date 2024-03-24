@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView responseTextView;
     private Button sendButton;
 
-    private static final String API_KEY = "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";
+    private static final String API_KEY = "-c3iSIFGTf3TD4zJoQ6Q2T3BlbkFJgMk9rBmnrAjqrjk5LWAL";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
